@@ -1,0 +1,2 @@
+To run question 1 open both k_medians.m and k_medians_main.m, then run k_medians_main.m. The figures for 2,3 and 4 clusters will be generated.
+To run question 3 open both k_medoids.m and k_medoids_main.m, then run k_medoids_main.m. The figures for 2,3 and 4 clusters will be generated.
